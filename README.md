@@ -24,7 +24,7 @@ A simple menu-driven Python application that converts temperatures between **Cel
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/temperature-converter.git
+   git clone https://github.com/AkshayaMahajan12/SCT_SD_1/tree/main
    ```
 
 2. Navigate to the project folder:
